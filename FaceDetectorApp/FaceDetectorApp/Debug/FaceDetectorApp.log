@@ -1,0 +1,2 @@
+﻿  FaceDetectorApp.cpp
+d:\documents\app files\ms visual studio projects\c++\facedetectorapp\facedetectorapp\facedetectorapp.cpp(4): fatal error C1083: Cannot open include file: 'facedetector.h': No such file or directory
